@@ -2,3 +2,8 @@
 this repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io   
 Activity 1 ScreenShot:   
 ![alt text](screenshots/activity1.png "Activity 1 ScreenShot")   
+Activity 2 ScreenShot:   
+![alt text](screenshots/activity2_1.png "Activity 2 ScreenShot 1")   
+![alt text](screenshots/activity2_2.png "Activity 2 ScreenShot 2")   
+![alt text](screenshots/activity2_3.png "Activity 2 ScreenShot 3")   
+
