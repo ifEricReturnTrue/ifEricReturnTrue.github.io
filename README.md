@@ -6,4 +6,8 @@ Activity 2 ScreenShot:
 ![alt text](screenshots/activity2_1.png "Activity 2 ScreenShot 1")   
 ![alt text](screenshots/activity2_2.png "Activity 2 ScreenShot 2")   
 ![alt text](screenshots/activity2_3.png "Activity 2 ScreenShot 3")   
+Activity 3 ScreenShot:   
+![alt text](screenshots/activity3_1.png "Activity 3 ScreenShot 1")   
+![alt text](screenshots/activity3_2.png "Activity 3 ScreenShot 2")   
+![alt text](screenshots/activity3_3.png "Activity 3 ScreenShot 3")   
 
